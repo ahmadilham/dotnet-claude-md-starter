@@ -10,7 +10,10 @@ blank file.
 
 ## How to use it
 
-1. Click **Use this template** (or copy [`CLAUDE.md`](./CLAUDE.md) into your repo root).
+You almost certainly already have a .NET repo, so the main path is just to copy
+the file:
+
+1. Copy [`CLAUDE.md`](./CLAUDE.md) into the root of your repo.
 2. Replace the placeholders — `MyApp`, framework versions, commands — with your
    project's real values.
 3. Run `/init` in Claude Code to refine it against your actual code.
@@ -18,6 +21,9 @@ blank file.
    don't just correct it in chat — add one line to `CLAUDE.md` so it doesn't
    recur next session. That, not writing it perfectly upfront, is what makes it
    useful over time.
+
+> Starting a brand-new project? You can also use the green **Use this template**
+> button to create a fresh repo with this `CLAUDE.md` already in place.
 
 ## What's inside
 
