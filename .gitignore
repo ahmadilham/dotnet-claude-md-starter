@@ -1,0 +1,23 @@
+# Build output
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+artifacts/
+
+# IDE / tooling
+.vs/
+.vscode/
+.idea/
+*.user
+
+# Test results
+[Tt]est[Rr]esults/
+*.trx
+coverage*
+
+# Local config & secrets — never commit
+appsettings.*.local.json
+*.env
+.env
+secrets.json
